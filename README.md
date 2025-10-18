@@ -14,14 +14,14 @@
 ## 📁 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🎬 [Disney+ Clone](https://github.com/yourname/react-disney-plus-app) | 영화 스트리밍 UI 클론 | React, Redux Toolkit, Firebase |
+| 🎬 [Disney+ Clone](https://github.com/Kwak1999/react-disney-plus-app) | 영화 스트리밍 UI 클론 | React, Redux Toolkit, Firebase |
 
 ---
 
 ## 📈 GitHub Stats
 ![Heebeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwak1999&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak1999&layout=compact&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwak1999&show_icons=true&theme=radical)
+
 ---
 
 ## ✍️ Blog & Links

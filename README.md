@@ -19,9 +19,9 @@
 ---
 
 ## 📈 GitHub Stats
-![Heebeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=tokyonight)
-
+![Heebeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwak1999&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak1999&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwak1999&show_icons=true&theme=radical)
 ---
 
 ## ✍️ Blog & Links

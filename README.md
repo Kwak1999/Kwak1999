@@ -6,7 +6,7 @@
 ---
 
 ## 🧰 Tech Stack
-**Frontend:** React, Next.js, TypeScript, Redux, Zustand, TailwindCSS  
+**Frontend:** React, Next.js, TypeScript, Redux, Recoil, TailwindCSS  
 **Tools:** VSCode, Figma, Postman, Git
 
 ---

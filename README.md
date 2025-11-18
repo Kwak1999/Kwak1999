@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Heebeom Kwak  
+# 👋 Hi, I'm Huibeom Kwak  
 
 ### 💻 Frontend Developer
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak1999&layout=compact)

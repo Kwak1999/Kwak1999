@@ -1,6 +1,6 @@
 <div align="center">
-  
-# Kwak Hui Beom
+
+<img src="https://capsule-render-delta.vercel.app/api?type=Kwak Hui Beom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 
 
@@ -36,6 +36,7 @@
 
 ## 📈 GitHub Stats
 ![Heebeom's GitHub stats](http://github-readme-stats-virid-five-59.vercel.app/api?username=Kwak1999&show_icons=true&theme=tokyonight)
+<br />
 ![Top Langs](https://github-readme-stats-virid-five-59.vercel.app/api/top-langs/?username=Kwak1999&layout=compact&theme=tokyonight)
 
 ---

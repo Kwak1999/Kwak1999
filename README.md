@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Huibeom Kwak  
 
 ### 💻 Frontend Developer
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak1999&layout=compact)
+![Top Langs](github-readme-stats-virid-five-59.vercel.app/api/top-langs/?username=Kwak1999&layout=compact)
 
 ---
 
@@ -20,11 +20,10 @@
 ---
 
 ## 📈 GitHub Stats
-![Heebeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwak1999&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak1999&layout=compact&theme=tokyonight)
+![Heebeom's GitHub stats](github-readme-stats-virid-five-59.vercel.app/api?username=Kwak1999&show_icons=true&theme=tokyonight)
+![Top Langs](github-readme-stats-virid-five-59.vercel.app/api/top-langs/?username=Kwak1999&layout=compact&theme=tokyonight)
 
 ---
 
 ## ✍️ Blog & Links
-- 📝 [Portfolio](https://yourportfolio.com)
 - 📫 Email: gmlqja7913@gmail.com  

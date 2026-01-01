@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Huibeom Kwak  
 
 ### 💻 Frontend Developer
-![Top Langs](github-readme-stats-virid-five-59.vercel.app/api/top-langs/?username=Kwak1999&layout=compact)
+![Top Langs](github-readme-stats-lk3bqkoeu-huibeoms-projects.vercel.app/api/top-langs/?username=Kwak1999&layout=compact)
 
 ---
 

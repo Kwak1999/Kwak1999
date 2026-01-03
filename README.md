@@ -1,11 +1,12 @@
-<!-- <div align="center"> -->
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kwak%20HuiBeom&fontSize=90)
 
 ---
+
 ## 👨‍💻 About Me
-- 나에게 개발이란? -> 늘 새로운 경험과 고민을 만들어주는 인생 학습도구
-- 사용자가 보다 편리하게 이해하고 이용할 수 있는 UI를 고민하고 설계하는 것
+나에게 개발이란? -> 늘 새로운 경험과 고민을 만들어주는 인생 학습도구
+사용자가 보다 편리하게 이해하고 이용할 수 있는 UI를 고민하고 설계하는 것
 
 ---
 

@@ -6,13 +6,7 @@
 
 ## 👨‍💻 About Me
 <p>
-저에게 개발이란 문제를 마주했을 때 감정이 아닌 논리로 접근하는 연습입니다.
-<br />
-예상과 다른 결과가 나올 때마다 코드를 되짚고, 구조를 다시 생각하며  
-왜 이런 결과가 나왔는지 스스로 질문합니다.
-<br />
-이 과정에서 얻은 작은 개선들이 서비스의 안정성과 사용성을 높인다고 믿습니다.<br/>
-끊임없이 고민하고, 더 나은 선택을 찾는 개발자로 팀에 기여하고 성장하고 싶습니다.
+안녕하세요. 곽희범 입니다.
 </p>
 
 
@@ -38,7 +32,8 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | 🎬 [Disney+ Clone](https://github.com/Kwak1999/react-disney-plus-app) | 영화 스트리밍 UI 클론 | React, Redux Toolkit, Firebase |
-| 🛍️ [중고마켓](https://github.com/Kwak1999/nextjs-app) | 중고 상품 등록·검색·찜·채팅까지 구현한 마켓 서비스 (인증/권한, 이미지 업로드, 페이지네이션) | Next.js, TypeScript, Prisma, PostgreSQL(Neon), NextAuth, Tailwind, Cloudinary |
+| 🛍️ [중고마켓](https://github.com/Kwak1999/nextjs-app) | 중고 상품 등록·검색·찜·채팅까지 구현한 마켓 서비스 (인증/권한, 이미지 업로드, 페이지네이션) | Next.js, TypeScript, Prisma, PostgreSQL(Neon), NextAuth, TailwindCloudinary | 
+|[온라인 오목 서비스] | 실시간 오목 대국 사이트 ||
 
 
 

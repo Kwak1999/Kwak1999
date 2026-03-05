@@ -31,9 +31,9 @@
 ## 📁 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🎬 [Disney+ Clone](https://github.com/Kwak1999/react-disney-plus-app) | 영화 스트리밍 UI 클론 | React, Redux Toolkit, Firebase |
-| 🛍️ [중고마켓](https://github.com/Kwak1999/nextjs-app) | 중고 상품 등록·검색·찜·채팅까지 구현한 마켓 서비스 (인증/권한, 이미지 업로드, 페이지네이션) | Next.js, TypeScript, Prisma, PostgreSQL(Neon), NextAuth, TailwindCloudinary | 
-|[온라인 오목 서비스] | 실시간 오목 대국 사이트 ||
+| [Disney+ Clone](https://github.com/Kwak1999/react-disney-plus-app) | 영화 스트리밍 UI 클론 | React, Redux Toolkit, Firebase |
+| [중고마켓](https://github.com/Kwak1999/nextjs-app) | 중고 상품 등록·검색·찜·채팅까지 구현한 마켓 서비스 (인증/권한, 이미지 업로드, 페이지네이션) | Next.js, TypeScript, Prisma, PostgreSQL(Neon), NextAuth, TailwindCloudinary | 
+| [온라인 오목 서비스](https://github.com/Kwak1999/omokGameService) | 실시간 오목 대국 사이트 (싱글플레이어 모드, 멀티플레이어 모드, 렌주룰 적용, 경기 복기 기능) | React, Socket.io Client, JavaScript, SQLite|
 
 
 
